@@ -14,10 +14,12 @@ gem install bundler
 '
 bundle install
 '
+
 ### Executar localmente
 '
 bundle exec cucumber
 '
+
 ### Executar no servido de CI (gerando reports JSON)
 '
 bundle exec cucumber -p ci
