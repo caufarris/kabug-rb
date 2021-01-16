@@ -7,7 +7,7 @@ Repositório do Projeto Kabug com Cucumber, Capybara e Ruby
 
 ### Instalar o Bundler
 '
-gem install bundles
+gem install bundler
 '
 
 ### Instalar as dependências do Ruby (projeto)
