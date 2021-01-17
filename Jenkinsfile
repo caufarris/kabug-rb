@@ -1,7 +1,7 @@
 pipeline {
     agent {
         docker {
-            image 'caufarris/rubywd'
+            image 'qaninja/rubywd'
         }
     }
     
